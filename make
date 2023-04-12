@@ -91,7 +91,7 @@ kernel_usage="stable"
 stable_kernel=("6.1.1" "5.15.1")
 rk3588_kernel=("5.10.1")
 # Set to automatically use the latest kernel
-auto_kernel="true"
+auto_kernel="false"
 
 # Initialize the build device
 make_board="all"
